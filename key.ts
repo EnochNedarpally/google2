@@ -1,0 +1,2 @@
+export const API_KEY="AIzaSyD8yVAoynTakK2epDiBBkikZwyeDz4EGJY"
+export const contextKey="017576662512468239146"
